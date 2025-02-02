@@ -1,0 +1,51 @@
+.ele1{
+            text-align: center;
+            
+        }
+        .ele2{
+            text-align: center;
+        }
+        .ele3{
+            text-align: center;
+        }
+        .ele4{
+            text-align: center;
+        }
+        .ele5{
+            text-align: center;
+        }
+        .row1{
+            padding-top: 2%;
+        }
+        .row2{
+            padding-top: 2%;
+        }
+        .row3{
+            padding-top: 2%;
+        }
+        .row4{
+            padding-top: 2%;
+        }
+        .row5{
+            padding-top: 10%;
+
+        }
+        .row6{
+            padding-top: 100%;
+            padding-left: 100%;
+        }
+        .b1{
+            background-color: black;
+            color: rgb(255, 255, 255);
+            border-radius: 30px;
+            width: 189px;
+            
+        }
+        #Email1{
+            border-radius: 20px;
+        }
+        body{
+            background-image: url('img3.png');
+            background-repeat: no-repeat;
+            
+        }
