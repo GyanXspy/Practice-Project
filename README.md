@@ -1,1 +1,1 @@
-Shopify front page clone
+# Shopify front page clone
