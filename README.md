@@ -1,0 +1,1 @@
+Shopify front page clone
